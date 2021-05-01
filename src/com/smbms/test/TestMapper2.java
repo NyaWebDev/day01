@@ -7,6 +7,7 @@ import org.junit.Test;
 
 public class TestMapper2 {
 
+	//2
     //目标1:获取一共有多少个用户
     @Test
     public void countUser(){
